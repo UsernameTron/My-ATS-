@@ -1,0 +1,15 @@
+# ---- Python Bytecode & Cache ----
+__pycache__/
+*.py[cod]
+
+# ---- Virtual Environment ----
+venv/
+
+# ---- Environment Secrets ----
+.env
+
+# ---- Mac & Misc OS Files ----
+.DS_Store
+
+# ---- Logs (optional) ----
+*.log
